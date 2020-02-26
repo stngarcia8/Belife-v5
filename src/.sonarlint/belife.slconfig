@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://localhost:9000",
+  "Organization": null,
+  "ProjectKey": "belife-v5",
+  "ProjectName": "belife-v5",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AXB_hbsXtO1ztiYy-Kas",
+      "ProfileTimestamp": "2020-02-26T00:23:55-03:00"
+    }
+  }
+}
